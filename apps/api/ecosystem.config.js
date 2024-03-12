@@ -11,7 +11,6 @@ module.exports = {
       max_memory_restart: '1G',
       env: {
         NODE_ENV: 'production',
-        PATH: process.env.PATH,
       },
     },
   ],
